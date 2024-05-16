@@ -1,4 +1,4 @@
-workSpace,Rue,Code Postal,type
+﻿workSpace,Rue,Code Postal,type
 BUROTEL - Congrès,Rue du Congrès 35,1000 Bruxelles,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 BUROTEL - Congrès,Rue du Congrès 37-41,1000 Bruxelles,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 BUROTEL - Presse,Rue de la Presse 4,1000 Bruxelles,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
@@ -22,18 +22,16 @@ The Library Ambiorix,Square Ambiorix 10,1000 Bruxelles,None
 Tribes Brussels Central Station,Rue des Colonies 56,1000 Bruxelles,None
 Tribes Brussels European Quarter,Avenue Marnix 13-17,1000 Bruxelles,None
 WorkOffice - Bruxelles,Avenue de Stalingrad 52,1000 Bruxelles,None
-Buro & Design Center,Esplanade 1,1020 Mutsaard,"Bureau, Salles de réunion"
+Buro & Design Center,Esplanade 1,1020 Brussels,"Bureau, Salles de réunion"
 Bluepoint - Brussel,Boulevard Auguste Reyers 80,1030 Schaerbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Betacowork,Rue des Pères Blancs 4,1040 Etterbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-BPS AD HOC,Boulevard Louis Schmidt 14,1040 Etterbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+BPS,Boulevard Louis Schmidt 119 - 2ème étage,1040 Etterbeek,"Bureau, Bureaux virtuels, Salles de réunion"
 Hive 5 - Bruxelles,Cours Saint-Michel 30B,1040 Etterbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Hive 5 - Etterbeek,Rue des Francs 79,1040 Etterbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Regus Brussels EU Schuman,Rond-Point Robert Schuman 6,1040 Etterbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Regus Brussels Schuman,Rond-Point Robert Schuman 11,1040 Etterbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 SERVCORP,Rond-point Schuman 2-4,1040 Etterbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Spaces European District,Rue Belliard 40,1040 Etterbeek,None
-TOPOS Merode,Rue Abbé Cuypers 3,1040 Etterbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-TOPOS Schuman,Rue Breydel 34-40,1040 Etterbeek,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Acte,Avenue Louise 207,1050 Bruxelles,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Beci,Avenue Louise 500,1050 Bruxelles,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Multiburo - Louise,Avenue Louise 143/4,1050 Bruxelles,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
@@ -54,7 +52,7 @@ Regus Brussels South Station,Place Marcel Broodthaers 8,1060 Saint-Gilles,"Burea
 Regus Express Brussels Zuid-Midi Railway Station,Avenue Fonsny 46,1060 Saint-Gilles,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Be-Square - Bara,Rue Bara 57,1070 Anderlecht,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 EEBIC,Allée de la Recherche 12,1070 Anderlecht,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-Regus City Dox,Boulevard Industriel 9,1070 Anderlecht,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Regus Anderlecht City Dox,Boulevard Industriel 9,1070 Anderlecht,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 The Faculty,Rue des Vétérinaires 47,1070 Anderlecht,None
 Alnair,Boulevard Edmond Machtens 172,1080 Molenbeek-Saint-Jean,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Le phare du kanaal,Quai des Charbonnages 40,1080 Molenbeek-Saint-Jean,"Coworking, Bureaux virtuels"
@@ -67,7 +65,7 @@ SAMAYA,Chaussée de Wavre, Auderghem,Coworking
 Seed Factory,Avenue des Volontaires 19,1160 Audergem,"Bureau, Coworking, Salles de réunion"
 Spaces Auderghem,Avenue Herrmann-Debroux 54,1160 Auderghem,None
 Buzzynest Boitsfort,Boulevard du Souverain 24,1170 Watermael-Boitsfort,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-FOSBURY & SONS - BOITSFORT,Chaussée de La Hulpe 185,1170 Watermael-Boitsfort,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+FOSBURY & SONS - BOITSFORT,Chaussée de La Hulpe 185,1170 Watermael-Boitsfort,"Bureau, Coworking, Salles de réunion"
 Womanly,Boulevard du Souverain 24,1170 Watermael-Boitsfort,Coworking
 KNBC,Avenue Kersbeek 308,1180 Uccle,Bureaux virtuels
 FACTORY FORTY,Rue des Anciens Étangs 40,1190 Forest,"Bureau, Bureaux virtuels, Salles de réunion"
@@ -80,7 +78,7 @@ Spaces Manhattan Center,Avenue du Boulevard 21,1210 Saint-Josse-ten-Noode,None
 Working From_ The Hoxton,Square Victoria Régina 1,1210 Saint-Josse-ten-Noode,"Bureau, Coworking, Salles de réunion"
 Multiburo - Collines de Wavre,Avenue Pasteur 6,1300 Wavre,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Buzzynest La Hulpe,Avenue Reine Astrid 921310, Hulpe,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-WIP,Chaussée de Bruxelles 135A1310, Hulpe,None
+WIP,Chaussée de Bruxelles 135A1310, Hulpe,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Hive 5 - Louvain-la-Neuve,Traverse d'Ésope 6,1348 Louvain-la-Neuve,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Mundo Louvain-la Neuve,Avenue de Citeaux 114,1348 Louvain-la-Neuve,None
 Regus Louvain-La-Neuve City Centre,Place de l'Université 16,1348 Louvain-la-Neuve,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
@@ -97,7 +95,7 @@ WorkOffice - Wemmel,Pl. Lt. Graff 15,1780 Wemmel,None
 firma I,Schaarbeeklei 636,1800 Vilvoorde,None
 Officenter - Vilvoorde,Luchthavenlaan 27,1800 Vilvorde,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 BC Group - Vilvoorde,Mechelsesteenweg 277,1804 Cargovil,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-Bloomz - Diegem,Lambroekstraat 5A,1831 Diegem,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+BLOOMZ Offices,Lambroekstraat 5A,1831 Diegem,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Greenhouse Antwerp,Berkenlaan 8A / 8B,1831 Diegem,Salles de réunion
 MeetDistrict - Diegem,Culliganlaan 5,1831 Diegem,"Coworking, Bureaux virtuels"
 Regus Brussels Airport,Pegasuslaan 5,1831 Diegem,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
@@ -167,12 +165,32 @@ Officenter - Pelt,Europalaan 11,3900 Pelt,"Bureau, Coworking, Bureaux virtuels, 
 Noordlink,Louis Pasteurstraat 21,3920 Lommel,"Bureau, Bureaux virtuels"
 SilverSquare GUILLEMINS,Esplanade Simone, Liège,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Spaces - Liège Guillemins,Rue des Guillemins 139,4000 Angleur,None
+Bluepoint - Liège,Boulevard Emile de Laveleye 191,4020 Angleur,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+LE HUB,Rue sur Haies 7,4557 Tinlot,"Coworking, Bureaux virtuels"
+Co Working Namur,Rue Marie Henriette 4;6,5000 Namur,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Mundo Namur,Rue Nanon 98,5000 Namur,"Bureau, Coworking, Bureaux virtuels"
+Regus Namur Jambes,Chaussée de Liège 624,5100 Jambes,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+BUROGEST,Avenue des Dessus de Lives 2,5101 Namur,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Bcenter,Aux Minières 2,6900 Marche-en-Famenne,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Skylab Factory Mons,Boulevard Sainctelette 39,7000 Mons,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Centureo,Chaussée du Pont du Sart 232,7110 Houdeng-Aimeries,"Bureau, Coworking, Salles de réunion"
+Easy Buro, Chaussée de Lille 327/0.4,7500 Tournai,Bureau
+Skylab Factory Tournai,Avenue de Maire 44,7503 Tournai,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Skylab Factory Mouscron,Passage, Mouscron,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+BLACKBOXX,Krakeleweg 39,8000 Bruges,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Regus Express - Brugge Railway Station,Stationsplein 4,8000 Brugge,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+O-FORTY,Kapellestraat 130-144,8020 Oostkamp,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Bedrijvencentrum Brugge,Lieven Bauwensstraat 20,8200 Bruges,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Vaartdijk Business Center,Vaartdijkstraat 19,8200 Brugge,None
+Bedrijvencentrum Oostende,Kuipweg 13,8400 Ostende,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Buzzynest Kortrijk,Beneluxpark 26,8500 Kortrijk,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Regus Kortrijk Pottelberg,Dumolinlaan 1,8500 Kortrijk,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 SNOWBALL,Evolis 104,8530 Harelbeke,None
 BC Group - Wevelgem,Vlamingstraat 4,8560 Wevelgem,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Bedrijvencentrum Waregem,Kalkhoevestraat 1,8790 Waregem,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Regus Roeselare West Wing Park,Kwadestraat 149/1,8800 Roeselare,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Atelier 12,Nederweg 12,8870 Iseghem,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-Skyline Park,Ambachtenstraat 33,8870 Iseghem,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
+Skyline Park,Ambachtenstraat 33,8870 Izegem,"Bureau, Coworking, Salles de réunion"
 Ampla House N18,Coupure Rechts 88,9000 Gent,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 MeetDistrict - Ghelamco Arena,Ottergemsesteenweg-Zuid 808,9000 Ghent,"Coworking, Bureaux virtuels"
 Parkoffice,Franklin Rooseveltlaan 348,9000 Gent,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
@@ -182,12 +200,10 @@ Idola Bussiness Center, Antwerpse Steenweg 19,9080 Lochristi,"Bureau, Coworking,
 Bedrijvencentrum Waasland,Industriepark-West 75,9100 Saint-Nicolas-Waes,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Regus Express - St Niklaas Railway Station,Stationsplein 7E,9100 Sint-Niklaas,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Regus Temse,Luxemburgstraat 20,9140 Temse,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-Hier,Albert Liénartstraat 24,9300 Aalst,Bureau
+Hier,Albert Liénartstraat 24,9300 Aalst,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Bedrijvencentrum Aalst,Industrielaan 4,9320 Alost,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Officenter - Aalst,Ninovesteenweg 198,9320 Aalst,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Regus Aalst Erembodegem,Groeneweg 17,9320 Aalst,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 SkylinE40,Korte Keppestraat, Aalst,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Bedrijvencentrum Geraardsbergen,Herenveld 2,9506 Grammont,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-Bedrijvencentrum Vlaamse Ardennen,Meersbloem Melden 46,9700 Audenarde,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
-Bedrijvencentrum Vlaamse Ardennen,Meersbloem Melden 46,9700 Audenarde,"Bureau, Coworking, Bureaux virtuels, Salles de réunion"
 Axxes Business Center,Guldensporenpark 120,9820 Merelbeke,Bureau
